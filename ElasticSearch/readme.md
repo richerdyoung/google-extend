@@ -1,8 +1,8 @@
 下载插件：
 
-* 安装插件： google ---》更多工具----》扩展程序
+* 安装插件： `google` ---》更多工具----》扩展程序
 
-* 将解压的elasticsearch-head.crx文件拖进来。
+* 将解压的`elasticsearch-head.crx`文件拖进来。
 
 * 提示程序包无效："CRX_HEADER_INVALID"
 
